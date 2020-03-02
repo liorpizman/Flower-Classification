@@ -41,7 +41,7 @@ The main file of the project is: Flower_Classification.py, in order to start the
 
 <img src="https://github.com/liorpizman/Flower-Classification/blob/master/images/5.jpg" width="350" height="350"><br>
 
-<img src="https://github.com/liorpizman/Flower-Classification/blob/master/images/6.jpg width="350" height="950"><br>
+<img src="https://github.com/liorpizman/Flower-Classification/blob/master/images/6.jpg" width="350" height="950"><br>
 
 
 
