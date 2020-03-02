@@ -23,7 +23,7 @@ The main file of the project is: Flower_Classification.py, in order to start the
 1. Use the ‘Browse’ buttons to choose the images folder and the model file.
 2. Choose the ‘Predict’ button in order predict the classification of the input-images in the input-folder.
 
-<img src="1" width="450" height="450">
+<img src="https://github.com/liorpizman/Flower-Classification/images/1.jpg" width="450" height="450">
 
 <H2>Results</H2>
   
@@ -31,17 +31,17 @@ The main file of the project is: Flower_Classification.py, in order to start the
 2. So you can scroll down and see the classification for each image in the input.
 3. The project folder will contain a results.csv file which will contain images' names and their classification.
 
-<img src="2" width="350" height="350">
+<img src="https://github.com/liorpizman/Flower-Classification/images/2.jpg" width="350" height="350">
 
-<img src="3" width="750" height="80">
+<img src="https://github.com/liorpizman/Flower-Classification/images/3.jpg" width="750" height="80">
 
 <H2>Graphs</H2>
 
-<img src="4" width="350" height="350"><br>
+<img src="https://github.com/liorpizman/Flower-Classification/images/4.jpg" width="350" height="350"><br>
 
-<img src="5" width="350" height="350"><br>
+<img src="https://github.com/liorpizman/Flower-Classification/images/5.jpg" width="350" height="350"><br>
 
-<img src="6" width="350" height="950"><br>
+<img src="https://github.com/liorpizman/Flower-Classification/images/6.jpg" width="350" height="950"><br>
 
 
 
